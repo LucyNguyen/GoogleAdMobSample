@@ -1,0 +1,6 @@
+framework module Pods_GoodleAdMobSampleTests {
+  umbrella header "Pods-GoodleAdMobSampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
